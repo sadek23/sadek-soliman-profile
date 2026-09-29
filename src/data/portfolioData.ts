@@ -416,6 +416,24 @@ export const PORTFOLIO_DATA = {
       liveUrl: "https://www.bdaiat.com/"
     },
     {
+      id: "hwaya-design-hall",
+      title: "Hwaya Design Hall (شركة هواية للتصميم والمعمار)",
+      category: "Web Platform",
+      shortDescription: "Architectural design, interior decoration & engineering portfolio platform.",
+      fullDescription: "Architectural and interior design agency web showcase developed for Hwaya Design Hall in Alexandria. Features project galleries, 3D architectural renders, client contact workflows, and responsive UI.",
+      techStack: ["HTML5", "CSS3", "JavaScript (ES6+)", "UI/UX Design", "Responsive Layouts"],
+      highlights: [
+        "Architectural portfolio & 3D render showcase",
+        "Custom yellow-black modern branding & UI",
+        "Client consultation & project inquiry forms"
+      ],
+      role: "Frontend Developer",
+      featured: true,
+      accentColor: "from-amber-500 to-yellow-600",
+      imageUrl: "/images/hwaya-design.png",
+      liveUrl: "https://hwayadesignhall.com/"
+    },
+    {
       id: "zos-hr-platform",
       title: "ZOS Integrated HR System (نظام ZOS للموارد البشرية)",
       category: "Web Platform",
