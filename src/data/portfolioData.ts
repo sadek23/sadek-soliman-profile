@@ -293,6 +293,24 @@ export const PORTFOLIO_DATA = {
       playStoreUrl: "https://play.google.com/store/apps/details?id=com.el3yada"
     },
     {
+      id: "eduarabia-main-platform",
+      title: "Eduarabia Platform (شركة نتاجة العربية لتطوير التعليم)",
+      category: "E-Learning",
+      shortDescription: "Leading educational technology & e-learning development platform engineered with React and Next.js.",
+      fullDescription: "Comprehensive educational platform developed for Eduarabia (نتاجة العربية لتطوير التعليم). Features interactive learning tools, course management systems, school project consulting, and digital education solutions.",
+      techStack: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "RESTful APIs"],
+      highlights: [
+        "Interactive e-learning & course portal architecture",
+        "EdTech project planning & school management solutions",
+        "Responsive, high-performance UI/UX design"
+      ],
+      role: "Frontend Developer",
+      featured: true,
+      accentColor: "from-blue-600 to-cyan-500",
+      imageUrl: "/images/eduarabia-main.png",
+      liveUrl: "https://www.eduarabia.com/"
+    },
+    {
       id: "eduarabia-platform",
       title: "Qassim University Portals (جامعة القصيم)",
       category: "E-Learning",
